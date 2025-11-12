@@ -1,4 +1,4 @@
-import math
+#Verilen iki sayının toplamını hesaplayan fonksiyon yazınız.
 
 def hesap(a,b):
     toplam = a + b
